@@ -159,3 +159,4 @@ function setupWaveformSync() {
 }
 
 window.addEventListener('load', setupWaveformSync);
+
